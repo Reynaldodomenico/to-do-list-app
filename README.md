@@ -1,16 +1,8 @@
 # to_do_list_app
 
-A new Flutter project.
+An application to list tasks you need to do on your phone.
+Using plugins Hive as the database, so all data will be storage on local storage
 
-## Getting Started
+<img width="335" alt="Screen_Shot_2022-10-10_at_13 56 08" src="https://user-images.githubusercontent.com/104771549/194861463-e82ef0f4-8fa8-4fcd-aa49-4d134db3b059.png">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="343" alt="Screen_Shot_2022-10-10_at_13 56 30" src="https://user-images.githubusercontent.com/104771549/194861473-cca396ba-7190-4e18-b0dd-33dfdf82cf50.png">
